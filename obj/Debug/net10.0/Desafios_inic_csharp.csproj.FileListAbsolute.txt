@@ -1,0 +1,14 @@
+C:\Users\NILDO MENEZES\Desktop\Desafios_inic_csharp\bin\Debug\net10.0\Desafios_inic_csharp.exe
+C:\Users\NILDO MENEZES\Desktop\Desafios_inic_csharp\bin\Debug\net10.0\Desafios_inic_csharp.deps.json
+C:\Users\NILDO MENEZES\Desktop\Desafios_inic_csharp\bin\Debug\net10.0\Desafios_inic_csharp.runtimeconfig.json
+C:\Users\NILDO MENEZES\Desktop\Desafios_inic_csharp\bin\Debug\net10.0\Desafios_inic_csharp.dll
+C:\Users\NILDO MENEZES\Desktop\Desafios_inic_csharp\bin\Debug\net10.0\Desafios_inic_csharp.pdb
+C:\Users\NILDO MENEZES\Desktop\Desafios_inic_csharp\obj\Debug\net10.0\Desafios_inic_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NILDO MENEZES\Desktop\Desafios_inic_csharp\obj\Debug\net10.0\Desafios_inic_csharp.AssemblyInfoInputs.cache
+C:\Users\NILDO MENEZES\Desktop\Desafios_inic_csharp\obj\Debug\net10.0\Desafios_inic_csharp.AssemblyInfo.cs
+C:\Users\NILDO MENEZES\Desktop\Desafios_inic_csharp\obj\Debug\net10.0\Desafios_inic_csharp.csproj.CoreCompileInputs.cache
+C:\Users\NILDO MENEZES\Desktop\Desafios_inic_csharp\obj\Debug\net10.0\Desafios_inic_csharp.dll
+C:\Users\NILDO MENEZES\Desktop\Desafios_inic_csharp\obj\Debug\net10.0\refint\Desafios_inic_csharp.dll
+C:\Users\NILDO MENEZES\Desktop\Desafios_inic_csharp\obj\Debug\net10.0\Desafios_inic_csharp.pdb
+C:\Users\NILDO MENEZES\Desktop\Desafios_inic_csharp\obj\Debug\net10.0\Desafios_inic_csharp.genruntimeconfig.cache
+C:\Users\NILDO MENEZES\Desktop\Desafios_inic_csharp\obj\Debug\net10.0\ref\Desafios_inic_csharp.dll
