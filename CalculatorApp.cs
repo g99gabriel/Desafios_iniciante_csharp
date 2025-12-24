@@ -69,7 +69,7 @@ namespace CalculatorApp
                 }
             }  
             while (reboot);
-            Console.WriteLine("\nPrograma Encerrado, Até logo!");
+            Console.WriteLine("\nExiting program now...!");
 
                 
             
