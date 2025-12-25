@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Desafios_inic_csharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7b5d448dca414f83ae232c9ee7ac8cd61d5293c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e59a7dffbfafedd07218f37a5e74352745c8437a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Desafios_inic_csharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Desafios_inic_csharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
