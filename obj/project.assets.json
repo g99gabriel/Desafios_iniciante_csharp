@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NILDO MENEZES\\Desktop\\Desafios_inic_csharp\\Desafios_inic_csharp.csproj",
+      "projectUniqueName": "C:\\Users\\NILDO MENEZES\\Desktop\\Csharp - Challengers\\Desafios_inic_csharp\\Desafios_inic_csharp.csproj",
       "projectName": "Desafios_inic_csharp",
-      "projectPath": "C:\\Users\\NILDO MENEZES\\Desktop\\Desafios_inic_csharp\\Desafios_inic_csharp.csproj",
+      "projectPath": "C:\\Users\\NILDO MENEZES\\Desktop\\Csharp - Challengers\\Desafios_inic_csharp\\Desafios_inic_csharp.csproj",
       "packagesPath": "C:\\Users\\NILDO MENEZES\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NILDO MENEZES\\Desktop\\Desafios_inic_csharp\\obj\\",
+      "outputPath": "C:\\Users\\NILDO MENEZES\\Desktop\\Csharp - Challengers\\Desafios_inic_csharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
